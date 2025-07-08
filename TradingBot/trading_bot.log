@@ -1,0 +1,5 @@
+2025-07-08 13:49:04,024 - INFO - Binance client initialized successfully
+2025-07-08 13:51:36,869 - INFO - Binance client initialized successfully
+2025-07-08 13:52:10,873 - ERROR - API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-08 14:46:58,637 - INFO - Binance client initialized successfully
+2025-07-08 14:47:37,850 - ERROR - API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action
